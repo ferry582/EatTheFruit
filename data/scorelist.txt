@@ -1,0 +1,3 @@
+Score: 51, Name: Ferry, Time: 2022-10-30 12:03:57.76331665 UTC
+Score: 59, Name: Joko, Time: 2022-10-30 12:06:30.076061435 UTC
+Score: 5, Name: Dodi, Time: 2022-10-30 12:06:54.203959666 UTC
